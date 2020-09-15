@@ -1,9 +1,9 @@
 #### Welcome
 <a href="https://github.com/little-hoge">
-  <img align="" height="200px" src="https://github-readme-stats.vercel.app/api?username=little-hoge&show_icons=true&theme=vue-dark" />
+  <img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=little-hoge&show_icons=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/little-hoge">
-  <img align="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=little-hoge&layout=compact&show_icons=true&theme=vue-dark" />
+  <img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=little-hoge&layout=compact&show_icons=true&theme=vue-dark" />
 </a>
 
 #### Sample
