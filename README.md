@@ -17,6 +17,15 @@
 | [DrawLine](https://github.com/little-hoge/DrawLine) |  <a href="https://little-hoge.github.io/DrawLine/"><img align="left" height="200px" src="https://user-images.githubusercontent.com/3638785/92312454-a9092500-effb-11ea-84f3-56bffa5d479c.gif" /> | [Tetris](https://github.com/little-hoge/tetris)  | <a href="https://little-hoge.github.io/tetris/"><img align="left" height="200px" src="https://user-images.githubusercontent.com/3638785/90015586-c3453100-dce3-11ea-959d-6de3a24d19ee.gif" />  | [Exploding](https://github.com/little-hoge/Exploding)  | <a href="https://little-hoge.github.io/Exploding/"><img align="left" height="200px" src="https://user-images.githubusercontent.com/3638785/79036062-4c960b00-7bff-11ea-8378-8555aa1de6b2.gif" />
 |   [1weekhueru](https://github.com/little-hoge/1weekhueru)  | <a href="https://little-hoge.github.io/1weekhueru/"><img align="left" height="200px" width="110px" src="https://user-images.githubusercontent.com/3638785/91658124-6a5a0300-eb01-11ea-8d50-3294f524083b.gif" />   |   [EarlyPush](https://github.com/little-hoge/EarlyPush)  | <a href="https://little-hoge.github.io/EarlyPush/"><img align="left" height="200px" src="https://user-images.githubusercontent.com/3638785/77823674-363c7980-7140-11ea-87b7-b7703289c471.PNG" />   | [EarlyPushSiritori](https://github.com/little-hoge/EarlyPushSiritori)  | <a href="https://github.com/little-hoge/EarlyPush"><img align="left" height="200px" src="https://user-images.githubusercontent.com/3638785/79637831-32d76380-81bd-11ea-8e99-8e20fce42f1e.PNG" />
 
+#### Apply
+|  Soft  | Source/DEMO |
+| ---- | ---- |
+| [DesktopAnimation.zip](https://github.com/little-hoge/DesktopAnimation/releases/download/v1.50/DesktopAnimation_ver1.50.zip) | <a href="https://github.com/little-hoge/DesktopAnimation"><img align="left" height="200px" width="220px" src="https://user-images.githubusercontent.com/3638785/89733501-e4621380-da90-11ea-89b1-fdbdb389156a.gif" /> |
+
+#### Tool
+|  File | Description  |
+| ---- | ---- |
+|[EXCEL Add-in](https://github.com/little-hoge/Tool/raw/master/addin/%E6%B1%8E%E7%94%A8.xlam) |  [使い方](https://github.com/little-hoge/Tool/wiki/EXCEL#%E3%82%A2%E3%83%89%E3%82%A4%E3%83%B3) |
 
 #### Counter
 ![Counter](https://profile-counter.glitch.me/little-hoge/count.svg)
