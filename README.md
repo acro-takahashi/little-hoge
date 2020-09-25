@@ -10,6 +10,7 @@
 |  Source | DEMO  |  Source | DEMO  |  Source | DEMO
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [CardMove](https://github.com/little-hoge/CardMoveSample) |  <a href="https://little-hoge.github.io/CardMoveSample/"><img align="left" height="200px" src="https://user-images.githubusercontent.com/3638785/92764078-12f44680-f3cf-11ea-88d3-1399e31e46e6.gif" />  |  [CirclePullMove](https://github.com/little-hoge/CirclePullMoveSample) | <a href="https://little-hoge.github.io/CirclePullMoveSample/"><img align="left" height="200px" src="https://user-images.githubusercontent.com/3638785/93017563-b2e6e580-f604-11ea-8c24-85ac2dd82829.gif" />   |   [DrawLine](https://github.com/little-hoge/DrawLineSample)  | <a href="https://little-hoge.github.io/DrawLineSample/"><img align="left" height="200px" src="https://user-images.githubusercontent.com/3638785/92345277-be697680-f103-11ea-8c36-dd55e9dbcb72.gif" /> |
+| [PlayerMove](https://github.com/little-hoge/PlayerMoveSample) |  <a href="https://little-hoge.github.io/PlayerMoveSample/"><img align="left" height="200px" src="https://user-images.githubusercontent.com/3638785/94229448-8010eb80-ff3a-11ea-98ac-8b9d593e74b3.gif" />  | 
 
 #### Games
 |  Source | DEMO  |  Source | DEMO |  Source | DEMO
