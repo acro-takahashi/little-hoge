@@ -24,9 +24,7 @@
 | [DesktopAnimation.zip](https://github.com/little-hoge/DesktopAnimation/releases/download/v1.50/DesktopAnimation_ver1.50.zip) | <a href="https://github.com/little-hoge/DesktopAnimation"><img align="left" height="200px" width="220px" src="https://user-images.githubusercontent.com/3638785/89733501-e4621380-da90-11ea-89b1-fdbdb389156a.gif" /> |
 
 #### Tool
-|  File | Description  |
-| ---- | ---- |
-|[EXCEL Add-in](https://github.com/little-hoge/Tool/raw/master/addin/%E6%B1%8E%E7%94%A8.xlam) |  [使い方](https://github.com/little-hoge/Tool/wiki/EXCEL#%E3%82%A2%E3%83%89%E3%82%A4%E3%83%B3) |
+[EXCEL Add-in等](https://github.com/little-hoge/Tool)
 
 #### Counter
 ![Counter](https://profile-counter.glitch.me/little-hoge/count.svg)
