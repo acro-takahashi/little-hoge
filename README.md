@@ -26,6 +26,3 @@
 
 #### Tool
 [EXCEL Add-in等](https://github.com/little-hoge/Tool)
-
-#### Counter
-![Counter](https://profile-counter.glitch.me/little-hoge/count.svg)
